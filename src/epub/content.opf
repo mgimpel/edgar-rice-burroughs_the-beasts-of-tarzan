@@ -42,14 +42,15 @@
 		<meta property="term" refines="#subject-4">sh85001072</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">An old enemy kidnaps Tarzan’s family and he must chase them down with his panther and ape friends.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Beasts of Tarzan&lt;/i&gt;, the third book in the Tarzan series, was first published in &lt;i&gt;All-Story Cavalier&lt;/i&gt; magazine in 1914, and later published as a novel in 1916.&lt;/p&gt;
+			&lt;p&gt;Tarzan’s old enemy, Nikolas Rokoff, escapes prison and plans his revenge by kidnapping the Greystoke heir. He also captures Tarzan and Jane and takes them all back to Africa, where he strands the Ape-man on an island, before continuing on with his dasterdly plan. Tarzan befriends a troop of apes led by Akut and tames Sheeta the panther, before setting off to rescue his wife and child, as he chases his foe up the Ugambi river.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/85</dc:source>
 		<dc:source>https://archive.org/details/beastsoftarzan00burr</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">N/A</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Beasts_of_Tarzan</meta>
@@ -59,10 +60,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80039681</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Félix Ziem</dc:contributor>
+		<meta property="file-as" refines="#artist">Ziem, Félix</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Félix-Francois Georges Philibert Ziem</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https//en.wikipedia.org/wiki/Félix_Ziem</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81112410</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Boss, Judith</meta>
